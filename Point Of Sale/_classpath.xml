@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Jar files/sqlite-jdbc-3.7.15-M1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar files/sqlite-jdbc-3.7.15-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Jar files/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar files/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar files/sqlite-jdbc-3.7.15-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Jar files/sqlite-jdbc-3.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Jar files/sqlite-jdbc4-3.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Jar files/opencsv-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar files/rs2xml.jar"/>
+	<classpathentry kind="lib" path="D:/Jar files/jfreechart-1.0.19/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
