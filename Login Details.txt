@@ -1,0 +1,9 @@
+Login Details for Point of Sale
+
+Admin Login: 
+Username ==> Admin
+Password ==> admin
+
+Employee Login
+Username ==> Employee
+Password ==>  employee
